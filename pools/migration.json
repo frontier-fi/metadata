@@ -1,10 +1,106 @@
 [
     {
-        "old": "base/v3/0x2be9d6899432e988a8b71eb80ee29a49521e2cba",
-        "new": "base/v3/0xc1D4D6608D346a3aCBF1614881A8C11564143970"
+        "name": "Treehouse awstETH/tETH (Mainnet)",
+        "old": {
+            "protocol": 3,
+            "chainId": 1,
+            "id": "0x9ed5175aecb6653c1bdaa19793c16fd74fbeeb37"
+        },
+        "new": {
+            "protocol": 3,
+            "chainId": 1,
+            "id": "0xb2fed80348b075f0683fa5153f66e37618ca3425"
+        }
     },
     {
-        "old": "ethereum/v3/0xdaba3d8ccf79ef289a7e2dbce51871b39ea445a2",
-        "new": "ethereum/v3/0xfbdC1B996B4A0AF6F2A049d3AA4a960099dEa1e9"
+        "name": "Treehouse awstETH/tETH (Base)",
+        "old": {
+            "protocol": 3,
+            "chainId": 8453,
+            "id": "0x2be9d6899432e988a8b71eb80ee29a49521e2cba"
+        },
+        "new": {
+            "protocol": 3,
+            "chainId": 8453,
+            "id": "0xc1d4d6608d346a3acbf1614881a8c11564143970"
+        }
+    },
+    {
+        "name": "Treehouse TREE/aWETH (Mainnet)",
+        "old": {
+            "protocol": 3,
+            "chainId": 1,
+            "id": "0xdaba3d8ccf79ef289a7e2dbce51871b39ea445a2"
+        },
+        "new": {
+            "protocol": 3,
+            "chainId": 1,
+            "id": "0xfbdc1b996b4a0af6f2a049d3aa4a960099dea1e9"
+        }
+    },
+    {
+        "name": "Avant avUSD/aUSD (Monad)",
+        "old": {
+            "protocol": 3,
+            "chainId": 143,
+            "id": "0x234b49e87a7fff921a060c21d2c013291bbd7ff1"
+        },
+        "new": {
+            "protocol": 3,
+            "chainId": 143,
+            "id": "0x43b9b77653f4240e764546d921df5c08b4c66a28"
+        }
+    },
+    {
+        "name": "Rocketpool aWETH/rETH (Mainnet)",
+        "old": {
+            "protocol": 3,
+            "chainId": 1,
+            "id": "0x1ea5870f7c037930ce1d5d8d9317c670e89e13e3"
+        },
+        "new": {
+            "protocol": 3,
+            "chainId": 1,
+            "id": "0x28b0149ab244562d2f8d50d988179256196157d4"
+        }
+    },
+    {
+        "name": "Alchemix ALCX/WETH (Mainnet)",
+        "old": {
+            "protocol": 3,
+            "chainId": 1,
+            "id": "0x1535d7ca00323aa32bd62aeddf7ca651e4b95966"
+        },
+        "new": {
+            "protocol": 3,
+            "chainId": 1,
+            "id": "0x16b14c92bc1926d64a5ded68528a5135e4c00d23"
+        }
+    },
+    {
+        "name": "Blueberry blbUSDC/blbAUSD (Monad)",
+        "old": {
+            "protocol": 3,
+            "chainId": 143,
+            "id": "0x47a4aaf5bbe897c4558c5780b150535eee6aa58b"
+        },
+        "new": {
+            "protocol": 3,
+            "chainId": 143,
+            "id": "0x14884cd9ac81c018e6c5156f8785bd57beeab2c5"
+        }
+    },
+    {
+        "name": "Yuzu syzUSD/CSUSDC (Monad)",
+        "old": {
+            "protocol": 3,
+            "chainId": 143,
+            "id": "0x430589b4aeee87e21721d657865d942f92d80f2f"
+        },
+        "new": {
+            "protocol": 3,
+            "chainId": 143,
+            "id": "0xbea14c93334ee9f81a9f0041bb0ad0ef01949703"
+        }
     }
 ]
