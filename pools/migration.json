@@ -30,5 +30,9 @@
     {
         "old": "monad/v3/0x430589b4aeee87e21721d657865d942f92d80f2f",
         "new": "monad/v3/0xBEA14c93334eE9F81A9F0041Bb0Ad0ef01949703"
+    },
+    {
+        "old": "monad/v3/0x2daa146dfb7eaef0038f9f15b2ec1e4de003f72b",
+        "new": "monad/v3/0x2fC28F4ac7E452DDEff68187d4a3bd429f893087"
     }
 ]
