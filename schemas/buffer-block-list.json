@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://balancer.fi/buffer-block-list.json",
+  "$id": "https://raw.githubusercontent.com/frontier-fi/metadata/main/schemas/buffer-block-list.json",
   "title": "Buffer block list",
   "description": "Buffer block list",
   "type": "object",

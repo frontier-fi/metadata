@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://balancer.fi/migration.json",
+  "$id": "https://raw.githubusercontent.com/frontier-fi/metadata/main/schemas/migration.json",
   "definitions": {
     "poolInfo": {
       "type": "object",
