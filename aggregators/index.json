@@ -1,0 +1,24 @@
+[
+    {
+        "id": "aggregator_1inch",
+        "name": "1inch",
+        "logo": "1inch.png",
+        "url": "https://1inch.io",
+        "addresses": {
+            "1": ["0x111116056aD60f0f4Fb52d60852F9acD2fAFCA11"],
+            "143": ["0x111116056aD60f0f4Fb52d60852F9acD2fAFCA11"],
+            "8453": ["0x111116056aD60f0f4Fb52d60852F9acD2fAFCA11"]
+        }
+    },
+    {
+        "id": "aggregator_kyberswap",
+        "name": "KyberSwap",
+        "logo": "kyberswap.png",
+        "url": "https://kyberswap.com",
+        "addresses": {
+            "1": ["0x8F10B468b06c6FD214B65F87778827F7D113f996"],
+            "143": ["0x8F10B468b06c6FD214B65F87778827F7D113f996"],
+            "8453": ["0x8F10B468b06c6FD214B65F87778827F7D113f996"]
+        }
+    }
+]
