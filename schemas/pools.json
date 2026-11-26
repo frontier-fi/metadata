@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://balancer.fi/pools.json",
+  "$id": "https://raw.githubusercontent.com/frontier-fi/metadata/main/schemas/pools.json",
   "title": "Pool",
   "description": "A list of liquidity pools",
   "type": "object",

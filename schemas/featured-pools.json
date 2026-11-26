@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://balancer.fi/featured-pools.json",
+  "$id": "https://raw.githubusercontent.com/frontier-fi/metadata/main/schemas/featured-pools.json",
   "title": "Featured pools",
   "description": "Featured pools",
   "type": "array",

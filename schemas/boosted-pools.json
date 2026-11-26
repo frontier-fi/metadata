@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://balancer.fi/boosted-pools.json",
+  "$id": "https://raw.githubusercontent.com/frontier-fi/metadata/main/schemas/boosted-pools.json",
   "title": "Boosted pools",
   "description": "Boosted pools (erc4626)",
   "type": "array",

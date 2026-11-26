@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://balancer.fi/pool-tags.json",
+  "$id": "https://raw.githubusercontent.com/frontier-fi/metadata/main/schemas/pool-tags.json",
   "title": "Pool tags",
   "description": "Pool tags",
   "type": "array",

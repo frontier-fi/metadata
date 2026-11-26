@@ -1,14 +1,14 @@
-# Balancer Metadata
+# Frontier Metadata
 
-Public metadata for the Balancer protocol.
+Public metadata for the Frontier protocol.
 
 ## Tags
 
-Tags are used to tag sets of pools in the [Balancer API](https://github.com/balancer/backend) and [frontend](https://github.com/balancer/frontend-monorepo).
+Tags are used to tag sets of pools in the [Frontier API](https://github.com/frontier-fi/backend) and [frontend](https://github.com/frontier-fi/frontend).
 
 ### Adding new tags
 
-To add a new tag, update the [tag json](https://github.com/balancer/metadata/blob/main/pools/tag/index.json) with an object using the following schema:
+To add a new tag, update the [tag json](https://github.com/frontier-fi/metadata/blob/main/pools/tags/index.json) with an object using the following schema:
 
 ```ts
 type Tag = {
@@ -40,7 +40,7 @@ Tags are generic pool <> metadata associations that are ingested by the API. We 
 ### Adding pool metadata
 
 To add new pool metadata, update the [pools
-json](https://github.com/balancer/metadata/blob/main/pools/index.json) with a
+json](https://github.com/frontier-fi/metadata/blob/main/pools/index.json) with a
 object using the following schema:
 
 ```ts
