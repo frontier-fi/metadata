@@ -34,5 +34,13 @@
     {
         "old": "monad/v3/0x2daa146dfb7eaef0038f9f15b2ec1e4de003f72b",
         "new": "monad/v3/0x2fC28F4ac7E452DDEff68187d4a3bd429f893087"
+    },
+    {
+        "old": "base/v3/0x19e3e19945e7fd2a7856824c595981c7fe450bb5",
+        "new": "base/v3/0x4D81A370dDFc086274f7F73738dBf0CAfAa6ee4c"
+    },
+    {
+        "old": "ethereum/v3/0x1846c6cbe0d433e152fa358e5ff27968e18bce7c",
+        "new": "ethereum/v3/0xbF596e932c2476165264b211eF8D6f4574a9a1A6"
     }
 ]
