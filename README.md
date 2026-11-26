@@ -49,3 +49,38 @@ type PoolMeta = {
     description?: string
     iconUrl?: string
 }
+
+## Aggregators
+
+Aggregators are used to tag swaps in a pool's activity log in the frontend. A swap is tagged when, in the swap's
+transaction, one of the aggregator's addresses on the pool's chain transferred tokens into the vault
+(`0xFF00009C1A83Ec25434522ef355b99e9a70000FF`).
+
+These are usually the aggregator's executor contracts, not its router or the transaction sender. To find one, open an
+aggregator-routed swap on a block explorer and look at the token transfer whose recipient is the vault: its sender is
+the address to add.
+
+### Adding or updating an aggregator
+
+Update the [aggregators json](aggregators/index.json) with an object using the following schema:
+
+```ts
+type Aggregator = {
+    id: string; // Prefixed with `aggregator_`, e.g. `aggregator_1inch`.
+    name: string;
+    logo: string; // File name of the logo in aggregators/images, e.g. `1inch.png`. Shared across all chains.
+    url?: string; // The aggregator's website.
+    addresses: Record<string, string[]>; // Chain ID -> addresses that transfer tokens into the vault on that chain.
+};
+```
+
+Addresses can differ per chain, so list them under each chain ID, e.g.
+
+```json
+"addresses": {
+    "1": ["0x1111111111111111111111111111111111111111"],
+    "8453": ["0x2222222222222222222222222222222222222222"]
+}
+```
+
+Add the logo to `aggregators/images` (square, at least 64x64).

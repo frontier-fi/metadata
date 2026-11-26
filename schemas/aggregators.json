@@ -1,0 +1,44 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://balancer.fi/aggregators.json",
+  "title": "Aggregators",
+  "description": "Swap aggregators and, per chain, the addresses that transfer tokens into the vault on their behalf",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "string",
+        "pattern": "^aggregator_[a-z0-9_]+$"
+      },
+      "name": {
+        "type": "string"
+      },
+      "logo": {
+        "description": "File name of the logo in aggregators/images, used on every chain",
+        "type": "string",
+        "pattern": "^[A-Za-z0-9_.-]+\\.(png|svg|jpg|jpeg|webp)$"
+      },
+      "url": {
+        "type": "string"
+      },
+      "addresses": {
+        "description": "Chain ID -> addresses that transfer tokens into the vault for this aggregator's swaps",
+        "type": "object",
+        "patternProperties": {
+          "^[0-9]+$": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "pattern": "^0x[a-fA-F0-9]{40}$"
+            },
+            "uniqueItems": true
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "required": ["id", "name", "logo", "addresses"],
+    "additionalProperties": false
+  }
+}
