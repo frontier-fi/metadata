@@ -158,5 +158,53 @@
             "old": "tETH-waBaswstETH",
             "new": "0xFF-tETH-waBaswstETH"
         }
+    },
+    {
+        "old": "ethereum/v3/0x57c23c58b1d8c3292c15becf07c62c5c52457a42",
+        "new": "ethereum/v3/0xb395a64a3780cbe516e484cc65dd42f6e17f1f81",
+        "_metadata": {
+            "old": "osETH-waWETH",
+            "new": "0xFF-waEthWETH-osETH"
+        }
+    },
+    {
+        "old": "ethereum/v3/0x85b2b559bc2d21104c4defdd6efca8a20343361d",
+        "new": "ethereum/v3/0xa609c62d6fc1f041e68844a85e14add75430f678",
+        "_metadata": {
+            "old": "Aave GHO/USDT/USDC",
+            "new": "0xFF-Aave Prime GHO-waEthU"
+        }
+    },
+    {
+        "old": "ethereum/v2/0x3de27efa2f1aa663ae5d458857e731c129069f29",
+        "new": "ethereum/v3/0x2499de6f678e4e3027d3ba52ab0642c2a2a3fcb7",
+        "_metadata": {
+            "old": "20wstETH-80AAVE",
+            "new": "0xFF-80AAVE-20wstETH"
+        }
+    },
+    {
+        "old": "ethereum/v2/0x8353157092ed8be69a9df8f95af097bbf33cb2af",
+        "new": "ethereum/v3/0xa609c62d6fc1f041e68844a85e14add75430f678",
+        "_metadata": {
+            "old": "GHO/USDT/USDC",
+            "new": "0xFF-Aave Prime GHO-waEthU"
+        }
+    },
+    {
+        "old": "ethereum/v2/0x1d13531bf6344c102280ce4c458781fbf14dad14",
+        "new": "ethereum/v3/0xB2feD80348b075f0683fa5153F66e37618ca3425",
+        "_metadata": {
+            "old": "tETH/wstETH",
+            "new": "0xFF-tETH-waEthLidowstETH"
+        }
+    },
+    {
+        "old": "ethereum/v2/0xf01b0684c98cd7ada480bfdf6e43876422fa1fc1",
+        "new": "ethereum/v3/0x4fb4de257058a0b2bcc791f3fad7d59caa221080",
+        "_metadata": {
+            "old": "ECLP-wstETH-wETH",
+            "new": "0xFF-wstETH-WETH"
+        }
     }
 ]
