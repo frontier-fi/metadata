@@ -42,5 +42,13 @@
     {
         "old": "ethereum/v3/0x1846c6cbe0d433e152fa358e5ff27968e18bce7c",
         "new": "ethereum/v3/0xbF596e932c2476165264b211eF8D6f4574a9a1A6"
+    },
+    {
+        "old": "ethereum/v2/0xf16aee6a71af1a9bc8f56975a4c2705ca7a782bc",
+        "new": "ethereum/v3/0x16B14c92bC1926D64a5Ded68528A5135E4C00d23"
+    },
+    {
+        "old": "base/v3/0x608382d1627c1f2f939c87d14fdb62d5bcbf561f",
+        "new": "base/v3/0x919a6C3fE7A5b9C62Be0b6577A7343d404A4beab"
     }
 ]
