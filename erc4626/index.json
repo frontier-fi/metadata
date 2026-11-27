@@ -17,11 +17,7 @@
                 "0xc71ea051a5f82c67adcf634c36ffe6334793d24c",
                 "0x2fe4dc166adbc0b39edb47f4324f00a7374dabf7",
                 "0xe1753f2e00940cc31213dd92013cf019dfe4ca1d",
-                "0x2df6dfbd281f127a3690c87e4572076778a9eda5",
-                "0x531e90a2376902de8915789fcc1075e3b0c153e7",
-                "0x5ec44a70f309854fe04d495cfe1b5da63dd1cc73",
-                "0x58c14a5e061c9bc6926c5b853445290f296c2f7b",
-                "0xac2435e3c25e8246870d33ce0a26988a46d5db68"
+                "0x2df6dfbd281f127a3690c87e4572076778a9eda5"
             ],
             "143": [
                 "0x5e7109a755fd2b86361f95065cde07fbab50ca1d",
@@ -83,6 +79,35 @@
                 "0x01d7f7b7ce2123192fecc20bd1caf3e4d9e4c10d",
                 "0x2e4ba06ff97e10d09fa4f5a270e97301eae729a9",
                 "0x7b538a1840eaf2ed92eeb67ee744ae627335e201"
+            ]
+        }
+    },
+    {
+        "id": "boosted_aave_pro",
+        "name": "Aave Pro Boosted",
+        "description": "This Boosted pool's underlying mechanics are powered by wrapped Aave Pro tokens, which generate yield from lending activities on the Aave Pro (V4) protocol, resulting in continuous appreciation of the pool's total value.",
+        "icon": "aave_pro_boosted.png",
+        "readMoreURL": "https://pro.aave.com/",
+        "addresses": {
+            "1": [
+                "0x7320cf22ac095ba2a2e0a652f77efb836c2e751b",
+                "0xcb0e7da9c635628f6d4827355aeca75ab8d3560f",
+                "0x559cec2c840d9dbb18936afc5e5341d78bfc7cbe",
+                "0x45a04ca1a5cbeea4b44356c75edd29b33eb2527a",
+                "0x5ec44a70f309854fe04d495cfe1b5da63dd1cc73",
+                "0x531e90a2376902de8915789fcc1075e3b0c153e7",
+                "0x58c14a5e061c9bc6926c5b853445290f296c2f7b",
+                "0xc8a125ae4275a78aadc53b46ca10566bc9b249e0",
+                "0xac2435e3c25e8246870d33ce0a26988a46d5db68",
+                "0x2226749630775ee20230ad65214fb339087ef30d",
+                "0x6d9e2cdd61caf69af99b275704b6e272c41c6718",
+                "0x82a9cc4656784e55ef2e78f704028b5e1bfc1732",
+                "0x33b41b74366f55327d959fff6d6b6fbc2853dbb1",
+                "0x7961f140b570490849db878ae222570ea838799d",
+                "0x4e712562fcb5337011398b6c630f55b60641cd5e",
+                "0x0a65197b16c5969f92672051c9c9c0c75b369135",
+                "0xe69c2045095c8ab3e2a7d77de2328fae5baf797c",
+                "0x092508a2eb395cb3861a3fdb65405744d706476f"
             ]
         }
     },
