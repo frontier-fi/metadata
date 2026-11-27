@@ -50,5 +50,33 @@
     {
         "old": "base/v3/0x608382d1627c1f2f939c87d14fdb62d5bcbf561f",
         "new": "base/v3/0x919a6C3fE7A5b9C62Be0b6577A7343d404A4beab"
+    },
+    {
+        "old": "ethereum/v2/0xa6f548df93de924d73be7d25dc02554c6bd66db5",
+        "new": "ethereum/v3/0x13bbD3c5F5135fb44fF4456E7A83efE772666665"
+    },
+    {
+        "old": "ethereum/v2/0x96646936b91d6b9d7d0c47c496afbf3d6ec7b6f8",
+        "new": "ethereum/v3/0xf9Fb50e22b6ab11A3ce278317bD58348c46398F3"
+    },
+    {
+        "old": "base/v2/0x97a3ece859d9c1c41e225fbd6f10359dae7a73c9",
+        "new": "base/v3/0x9c5040E90623486043019bf5DEBdc8Af82488DAa"
+    },
+    {
+        "old": "base/v2/0x2c0ea123a2c7e2175f8204a8ff2a37187eed24ff",
+        "new": "base/v3/0x9c5040E90623486043019bf5DEBdc8Af82488DAa"
+    },
+    {
+        "old": "base/v2/0x8670583bf7106c0cf850552c027ffa2c21be0607",
+        "new": "base/v3/0x9c5040E90623486043019bf5DEBdc8Af82488DAa"
+    },
+    {
+        "old": "monad/v3/0x696e219bc37954154291ebcd66b40ba0b1a26148",
+        "new": "monad/v3/0x28396B4A610Fc43D29Baa1d52D19ea0949E4527a"
+    },
+    {
+        "old": "base/v3/0xd7af1601493b53cecff402985029345e568fb497",
+        "new": "base/v3/0xc1D4D6608D346a3aCBF1614881A8C11564143970"
     }
 ]
