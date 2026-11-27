@@ -1,82 +1,162 @@
 [
     {
         "old": "ethereum/v3/0x9ed5175aecb6653c1bdaa19793c16fd74fbeeb37",
-        "new": "ethereum/v3/0xB2feD80348b075f0683fa5153F66e37618ca3425"
+        "new": "ethereum/v3/0xB2feD80348b075f0683fa5153F66e37618ca3425",
+        "_metadata": {
+            "old": "Surge tETH-Lido wstETH",
+            "new": "0xFF-tETH-waEthLidowstETH"
+        }
     },
     {
         "old": "base/v3/0x2be9d6899432e988a8b71eb80ee29a49521e2cba",
-        "new": "base/v3/0xc1D4D6608D346a3aCBF1614881A8C11564143970"
+        "new": "base/v3/0xc1D4D6608D346a3aCBF1614881A8C11564143970",
+        "_metadata": {
+            "old": "tETH-waBaswstETH",
+            "new": "0xFF-tETH-waBaswstETH"
+        }
     },
     {
         "old": "ethereum/v3/0xdaba3d8ccf79ef289a7e2dbce51871b39ea445a2",
-        "new": "ethereum/v3/0xfbdC1B996B4A0AF6F2A049d3AA4a960099dEa1e9"
+        "new": "ethereum/v3/0xfbdC1B996B4A0AF6F2A049d3AA4a960099dEa1e9",
+        "_metadata": {
+            "old": "80TREE-20AavePrimeWETH",
+            "new": "0xFF-80TREE-20waEthWETH"
+        }
     },
     {
         "old": "monad/v3/0x234b49e87a7fff921a060c21d2c013291bbd7ff1",
-        "new": "monad/v3/0x43b9B77653f4240E764546D921Df5C08B4c66a28"
+        "new": "monad/v3/0x43b9B77653f4240E764546D921Df5C08B4c66a28",
+        "_metadata": {
+            "old": "avUSD-AUSD",
+            "new": "0xFF-avUSD-waMonUSDC"
+        }
     },
     {
         "old": "ethereum/v3/0x1ea5870f7c037930ce1d5d8d9317c670e89e13e3",
-        "new": "ethereum/v3/0x28B0149Ab244562d2F8d50d988179256196157d4"
+        "new": "ethereum/v3/0x28B0149Ab244562d2F8d50d988179256196157d4",
+        "_metadata": {
+            "old": "rETH-waEthWETH",
+            "new": "0xFF-waEthLidowstETH-rETH"
+        }
     },
     {
         "old": "ethereum/v3/0x1535d7ca00323aa32bd62aeddf7ca651e4b95966",
-        "new": "ethereum/v3/0x16B14c92bC1926D64a5Ded68528A5135E4C00d23"
+        "new": "ethereum/v3/0x16B14c92bC1926D64a5Ded68528A5135E4C00d23",
+        "_metadata": {
+            "old": "80ALCX-20WETH",
+            "new": "0xFF-80ALCX-20WETH"
+        }
     },
     {
         "old": "monad/v3/0x47a4aaf5bbe897c4558c5780b150535eee6aa58b",
-        "new": "monad/v3/0x14884CD9aC81c018E6C5156F8785bD57BeeAB2C5"
+        "new": "monad/v3/0x14884CD9aC81c018E6C5156F8785bD57BeeAB2C5",
+        "_metadata": {
+            "old": "Curvance-AUSD-USDC",
+            "new": "0xFF-blbUSDC-blbAUSD"
+        }
     },
     {
         "old": "monad/v3/0x430589b4aeee87e21721d657865d942f92d80f2f",
-        "new": "monad/v3/0xBEA14c93334eE9F81A9F0041Bb0Ad0ef01949703"
+        "new": "monad/v3/0xBEA14c93334eE9F81A9F0041Bb0Ad0ef01949703",
+        "_metadata": {
+            "old": "syzUSD-CSUSDC",
+            "new": "0xFF-syzUSD-CSUSDC"
+        }
     },
     {
         "old": "monad/v3/0x2daa146dfb7eaef0038f9f15b2ec1e4de003f72b",
-        "new": "monad/v3/0x2fC28F4ac7E452DDEff68187d4a3bd429f893087"
+        "new": "monad/v3/0x2fC28F4ac7E452DDEff68187d4a3bd429f893087",
+        "_metadata": {
+            "old": "wnAUSD-wnUSDC-wnUSDT0",
+            "new": "0xFF-wnAUSD-wnUSDC-wnUSDT0"
+        }
     },
     {
         "old": "base/v3/0x19e3e19945e7fd2a7856824c595981c7fe450bb5",
-        "new": "base/v3/0x4D81A370dDFc086274f7F73738dBf0CAfAa6ee4c"
+        "new": "base/v3/0x4D81A370dDFc086274f7F73738dBf0CAfAa6ee4c",
+        "_metadata": {
+            "old": "80PRL-20WETH",
+            "new": "0xFF-80PRL-20WETH"
+        }
     },
     {
         "old": "ethereum/v3/0x1846c6cbe0d433e152fa358e5ff27968e18bce7c",
-        "new": "ethereum/v3/0xbF596e932c2476165264b211eF8D6f4574a9a1A6"
+        "new": "ethereum/v3/0xbF596e932c2476165264b211eF8D6f4574a9a1A6",
+        "_metadata": {
+            "old": "80PRL-20WETH",
+            "new": "0xFF-80PRL-20WETH"
+        }
     },
     {
         "old": "ethereum/v2/0xf16aee6a71af1a9bc8f56975a4c2705ca7a782bc",
-        "new": "ethereum/v3/0x16B14c92bC1926D64a5Ded68528A5135E4C00d23"
+        "new": "ethereum/v3/0x16B14c92bC1926D64a5Ded68528A5135E4C00d23",
+        "_metadata": {
+            "old": "20WETH-80ALCX",
+            "new": "0xFF-80ALCX-20WETH"
+        }
     },
     {
         "old": "base/v3/0x608382d1627c1f2f939c87d14fdb62d5bcbf561f",
-        "new": "base/v3/0x919a6C3fE7A5b9C62Be0b6577A7343d404A4beab"
+        "new": "base/v3/0x919a6C3fE7A5b9C62Be0b6577A7343d404A4beab",
+        "_metadata": {
+            "old": "USDC-EURC",
+            "new": "0xFF-waBasEURC-waBasUSDC"
+        }
     },
     {
         "old": "ethereum/v2/0xa6f548df93de924d73be7d25dc02554c6bd66db5",
-        "new": "ethereum/v3/0x13bbD3c5F5135fb44fF4456E7A83efE772666665"
+        "new": "ethereum/v3/0x13bbD3c5F5135fb44fF4456E7A83efE772666665",
+        "_metadata": {
+            "old": "B-50WBTC-50WETH",
+            "new": "0xFF-WBTC-WETH"
+        }
     },
     {
         "old": "ethereum/v2/0x96646936b91d6b9d7d0c47c496afbf3d6ec7b6f8",
-        "new": "ethereum/v3/0xf9Fb50e22b6ab11A3ce278317bD58348c46398F3"
+        "new": "ethereum/v3/0xf9Fb50e22b6ab11A3ce278317bD58348c46398F3",
+        "_metadata": {
+            "old": "B-50USDC-50WETH",
+            "new": "0xFF-WETH-USDC"
+        }
     },
     {
         "old": "base/v2/0x97a3ece859d9c1c41e225fbd6f10359dae7a73c9",
-        "new": "base/v3/0x9c5040E90623486043019bf5DEBdc8Af82488DAa"
+        "new": "base/v3/0x9c5040E90623486043019bf5DEBdc8Af82488DAa",
+        "_metadata": {
+            "old": "ECLP-WETH-USDC-dyn",
+            "new": "WETH-USDC"
+        }
     },
     {
         "old": "base/v2/0x2c0ea123a2c7e2175f8204a8ff2a37187eed24ff",
-        "new": "base/v3/0x9c5040E90623486043019bf5DEBdc8Af82488DAa"
+        "new": "base/v3/0x9c5040E90623486043019bf5DEBdc8Af82488DAa",
+        "_metadata": {
+            "old": "ECLP-WETH-USDC-dyn",
+            "new": "WETH-USDC"
+        }
     },
     {
         "old": "base/v2/0x8670583bf7106c0cf850552c027ffa2c21be0607",
-        "new": "base/v3/0x9c5040E90623486043019bf5DEBdc8Af82488DAa"
+        "new": "base/v3/0x9c5040E90623486043019bf5DEBdc8Af82488DAa",
+        "_metadata": {
+            "old": "ECLP-WETH-USDC-dyn",
+            "new": "WETH-USDC"
+        }
     },
     {
         "old": "monad/v3/0x696e219bc37954154291ebcd66b40ba0b1a26148",
-        "new": "monad/v3/0x28396B4A610Fc43D29Baa1d52D19ea0949E4527a"
+        "new": "monad/v3/0x28396B4A610Fc43D29Baa1d52D19ea0949E4527a",
+        "_metadata": {
+            "old": "AutoRange-WMON-USDC",
+            "new": "0xFF-WMON-USDC"
+        }
     },
     {
         "old": "base/v3/0xd7af1601493b53cecff402985029345e568fb497",
-        "new": "base/v3/0xc1D4D6608D346a3aCBF1614881A8C11564143970"
+        "new": "base/v3/0xc1D4D6608D346a3aCBF1614881A8C11564143970",
+        "_metadata": {
+            "old": "tETH-waBaswstETH",
+            "new": "0xFF-tETH-waBaswstETH"
+        }
     }
 ]
